@@ -1,13 +1,5 @@
-#For Buildind purpose Parcel Dev Build Local Server HMR = Hot Module Replacement File Watching Algorithm - written in C++ Caching - Faster Builds Image Optimization Minification Bundling Compress Consistent Hashing Code Splitting Differential Bundling - support older browsers Diagnostic Error Handling HTTPs Tree Shaking - remove unused code Different dev and prod bundles Namaste Food /**
+Follow these steps to view complete project:-
 
-Header Logo Nav Items Body Search RestaurantContainer RestaurantCard
+1) Add this extension on chrome or firefox :- "https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf" or "https://addons.mozilla.org/en-US/firefox/addon/access-control-allow-origin/"
 
-Img
-Name of Res, Star Rating, cuisine, delery tie Footer Copyright Links Address Contact */ Two types of Export/Import
-Default Export/Import export default Component; import Component from "path";
-
-Named Export/Import export const Component; import {Component} from "path";
-
-React Hooks (Normal JS utility functions)
-
-useState() - Superpowerful State Variables in react useEffect() 2 types Routing in web apps Client Side Routing Server Side Routing Redux Toolkit Install @reduxjs/toolkit and react-redux Build our store Connect our store to our app Slice (cartSlice) dispatch(action) Selector
+2) Use the deployed URL attached on Repositiory :- "https://bite-buddy-food.netlify.app/"
