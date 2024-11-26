@@ -13,4 +13,4 @@ Dummy Credit Card Details:
     CVV: Any three digits
 
 
-NOTE:- Frontend is already deployed on Netlify just start the bakcend server and try to do the dummy payments using provided card details
+NOTE:- Frontend is already deployed on Netlify just start the bakcend server and try to do the dummy payments using provided netilfy URL from card details mentioned above.
