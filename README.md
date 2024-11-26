@@ -1,11 +1,14 @@
 Instructions to Start Backend Server
-Clone the repository and navigate to the backend folder using the command:
+Clone the repository "https://github.com/vankur017/Bite-Buddy" (don't focus on frontend folder just start backend server)
 
-    cd backend
+Navigate to the backend folder on cmd or terminal in VsCode using the command:
+    
+    -cd backend
+    
 Run the following command to install the required node_modules:
 
      -npm install
-     -npm start(You will see server running at port 4200)
+     -npm start(You will see server is now running on port 4200)
 Dummy Credit Card Details:
 
     Card Number: 4242 4242 4242 4242
