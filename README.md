@@ -4,7 +4,8 @@ Clone the repository and navigate to the backend folder using the command:
     cd backend
 Run the following command to install the required node_modules:
 
- npm install => npm start(after running npm install)
+     -npm install
+     -npm start(You will see server running at port 4200)
 Dummy Credit Card Details:
 
     Card Number: 4242 4242 4242 4242
