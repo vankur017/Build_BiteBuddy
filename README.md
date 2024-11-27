@@ -1,3 +1,8 @@
+Before navigatin to attached link of netlify DO INSTALL BELOW GIVEN CORS EXTESNION ON CHROME:-
+   -https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf
+
+
+
 Instructions to Start Backend Server
 Clone the repository "https://github.com/vankur017/Bite-Buddy" (don't focus on frontend folder just start backend server)
 
